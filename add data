@@ -1,0 +1,17 @@
+[
+{
+    "nama_wisata" : "kota lama",
+    "kategori" : "wisata sejarah",
+    "lokasi" : "tawang"
+},
+{
+    "nama_wisata" : "Simpang Lima",
+    "kategori" : "wisata Kota",
+    "lokasi" : "Simpang lima"
+},
+{
+    "nama_wisata" : "banjir kanal",
+    "kategori" : "Wisata Alam",
+    "lokasi" : "Banjir Kanal barat"
+}
+]
